@@ -1,0 +1,19 @@
+
+Pagination — 分頁工具 https://shhhhh-ycy.medium.com/pagination-%E5%88%86%E9%A0%81%E5%B7%A5%E5%85%B7-d04e3f0c23b0
+
+初心者透過官方文件學習 React 十大概念（上）https://askie.today/react-main-concepts-part-1/?fbclid=IwAR1qUP64h-4RLxhQ5VHzbjIBs3VkKA2Lo1Bt3gDM2d_kkCZYT98WgMPPhgU
+
+網頁切版等級表 https://hackmd.io/GY_Tigk3RvKqGoYvy9XLuQ?fbclid=IwAR3edeias53jSHjd9t3SMyKESVFZmnNZH74La_YTz-Olg9WtgwNE5kSPP_4
+
+Vue I18n 實作多國語系 https://clhuang224.github.io/TechBlog/2020/03/15/20200315-vue-i18n/?fbclid=IwAR0lEkAxlRRCRnFKrLngDrx96LnNOGrKXH66Si18XTkNRTKpkRpAWCxMSu8
+
+21 天帶您做出 Bootstrap 5 募資網站 https://hackmd.io/@YmcMgo-NSKOqgTGAjl_5tg/ryar-vGOd/%2FTTQlvrExSgKMJbHrt9eR5A?fbclid=IwAR3DddjbOJewlws89VBN3wA1f4GLbJXS6Nl-5KJB6hSH8fUIFvtoDGWDKTo
+
+我該早點學的前端技術|不學無術也該有個限度 https://kevinshu1995.github.io/blog/learningexp/look-IAmSuck/?fbclid=IwAR2MuYP2Nrh_d_w-gpqlbG80B5yYUr4H6CJyqx0g4nd9OPvsqD7YZsng3PA
+
+npm/gulp/webpack打包
+
+JavaScript 常見考題破解：物件傳值？傳參考？ https://www.youtube.com/watch?v=y1odVMpi6dU
+https://blog.techbridge.cc/2017/09/16/frontend-backend-mvc/
+https://hsiangfeng.github.io/other/20210529/2519649612/
+
